@@ -1,1 +1,1 @@
-print ("version 1 feature")
+print ("version 1 of feature")
